@@ -107,7 +107,7 @@ div#display img {
     margin-left: 5px;
     width: 2rem;
     height: 2rem;
-   border:1px solid white;
+    background-color: white;
 }
 
 div#extradetails {
